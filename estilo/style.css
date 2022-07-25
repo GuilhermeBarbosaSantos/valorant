@@ -160,6 +160,8 @@ aside{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.61);
+    text-align: center;
+    
 }
 
 aside ul{
@@ -173,7 +175,12 @@ aside h3{
     padding: 5px;
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
+    text-align: center;
     
+}
+
+aside p{
+    text-align: center;
 }
 
 
